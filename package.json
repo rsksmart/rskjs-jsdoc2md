@@ -1,0 +1,22 @@
+{
+  "name": "rskjs-jsdoc2md",
+  "version": "1.0.0",
+  "description": "Jsdoc comments to markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiliorizzo/rskjs-jsDoc2md.git"
+  },
+  "author": "emi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emiliorizzo/rskjs-jsDoc2md/issues"
+  },
+  "homepage": "https://github.com/emiliorizzo/rskjs-jsDoc2md#readme",
+  "dependencies": {
+    "jsdoc-to-markdown": "^5.0.2"
+  }
+}
