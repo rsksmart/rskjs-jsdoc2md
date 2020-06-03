@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emiliorizzo/rskjs-jsDoc2md.git"
+    "url": "git+https://github.com/rsksmart/rskjs-jsdoc2md.git"
   },
   "author": "emi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/emiliorizzo/rskjs-jsDoc2md/issues"
+    "url": "https://github.com/rsksmart/rskjs-jsdoc2md/issues"
   },
-  "homepage": "https://github.com/emiliorizzo/rskjs-jsDoc2md#readme",
+  "homepage": "https://github.com/rsksmart/rskjs-jsdoc2md#readme",
   "dependencies": {
     "jsdoc-to-markdown": "^5.0.2"
   }
