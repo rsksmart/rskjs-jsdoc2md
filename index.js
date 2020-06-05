@@ -1,5 +1,5 @@
 const jsdoc2md = require('jsdoc-to-markdown')
-const defaultOptions = require('./options.json')
+const defaultOptions = require('./options')
 
 function Jsdoc2md (options = {}) {
   options = Object.assign(defaultOptions, options)
