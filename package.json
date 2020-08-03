@@ -1,5 +1,5 @@
 {
-  "name": "rskjs-jsdoc2md",
+  "name": "@rsksmart/rskjs-jsdoc2md",
   "version": "1.0.0",
   "description": "Jsdoc comments to markdown",
   "main": "index.js",
