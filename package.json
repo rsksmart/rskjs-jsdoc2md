@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/rsksmart/rskjs-jsdoc2md#readme",
   "dependencies": {
-    "jsdoc-to-markdown": "^5.0.2"
+    "jsdoc-to-markdown": "^5.0.3"
   }
 }
